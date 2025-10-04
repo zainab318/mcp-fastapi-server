@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "fastapi-tools": {
+      "command": "python",
+      "args": [
+        "simple_mcp_server.py"
+      ]
+    }
+  }
+}
