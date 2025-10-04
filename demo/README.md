@@ -1,12 +1,12 @@
 # Screen Recording Demo
 
-## 📹 Demo Video
+## 📹 Demo Video: `screen_recording (1).mp4`
 
-**Note**: The screen recording video is available locally but not uploaded to GitHub due to file size limits.
+This video demonstrates the complete MCP FastAPI Server implementation:
 
-### What the Video Shows:
+### What's Shown:
 1. **FastAPI Server** - Running on port 8000 with API documentation
-2. **MCP Server Configuration** - Gemini CLI integration setup  
+2. **MCP Server Configuration** - Gemini CLI integration setup
 3. **MCP Tools Usage** - calculate_sum and greet_user tools working through Gemini CLI
 
 ### Assignment Requirements Met:
@@ -15,9 +15,4 @@
 - ✅ Usage of MCP Tools through Gemini CLI
 
 **Duration**: ~5 minutes  
-**Format**: MP4 video file (available locally)
-
-### Video Upload Options:
-- Upload to YouTube (unlisted) and add link to README
-- Use GitHub Releases for large files
-- Compress video to under 100MB for direct upload
+**Format**: MP4 video file (24.5MB - optimized for GitHub)
